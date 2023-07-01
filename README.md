@@ -1,7 +1,7 @@
 # Aesthetic Profile Website 🌹
 ✨ A free-to-use and customizable aesthetic profile website using HTML &amp; CSS stylesheet. Made by [DevSaige](https://magical-biplane-538.notion.site/About-Me-f71aa66fff4a4b368159342d6948c1ac?pvs=4).
 
-**Note:** This is HTML, CSS and __Javascript__ based. It is not recommended to use this for Python and C++. Additionally, this repository is under the 
+**Note:** This is HTML, CSS and __Javascript__ based. It is not recommended to use this for Python and C++. Additionally, this repository is under the **GNU GENERAL PUBLIC LICENSE**, Version 3, 29 June 2007. All rights reserved, please abide by the usage limitations to avoid a DMCA takedown.
 
 **Recommendation:** It is strongly advised to research and review the CSS & HTML documentation in order to comprehend the properties.
 - You may overview the HTML & CSS documentation at [W3schools](https://w3schools.com/)

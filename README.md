@@ -21,3 +21,5 @@
 - **Method 2:** To add images via links, right-click the desired image and select "Copy Image Address". Paste the image address into an image source tag.
 > **Delete images**
 - Right-click the desired image to delete then select "Delete"
+
+- **NOTE** Do NOT make any modifications for `script.js`

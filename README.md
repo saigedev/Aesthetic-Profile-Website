@@ -6,6 +6,9 @@
 **Recommendation:** It is strongly advised to research and review the CSS & HTML documentation in order to comprehend the properties.
 - You may overview the HTML & CSS documentation at [W3schools](https://w3schools.com/)
 
+- Begin by cloning the github project to your project directory or IDE:
+<img width="266" alt="image" src="https://github.com/saigedev/Aesthetic-Profile-Website/assets/133263133/a8fe1f5a-67e0-4d8f-8c20-12e6e7d7ba1a">
+
 # Guide to customize
 - You may amend class and id names to better suit your needs, making it simpler to identify elements.
 - To customize the CSS stylesheet, locate the `design.css` file and make your desired modifications to the CSS properties and elements.
